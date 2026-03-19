@@ -1,0 +1,11 @@
+[
+  { "instead_of": "Notion", "use": "AppFlowy", "url": "https://appflowy.io", "note": "Local-first, self-hostable" },
+  { "instead_of": "Airtable", "use": "NocoDB", "url": "https://nocodb.com", "note": "Turns any DB into a spreadsheet UI" },
+  { "instead_of": "Figma", "use": "Penpot", "url": "https://penpot.app", "note": "Open source design tool" },
+  { "instead_of": "Slack", "use": "Mattermost", "url": "https://mattermost.com", "note": "Full self-hosted option" },
+  { "instead_of": "GitHub", "use": "Gitea", "url": "https://gitea.io", "note": "Lightweight, self-hosted" },
+  { "instead_of": "Netlify", "use": "Coolify", "url": "https://coolify.io", "note": "Self-hosted deployment platform" },
+  { "instead_of": "Google Analytics", "use": "Plausible", "url": "https://plausible.io", "note": "Privacy-first, lightweight" },
+  { "instead_of": "Zoom", "use": "Jitsi", "url": "https://jitsi.org", "note": "No account needed" }
+]
+```
